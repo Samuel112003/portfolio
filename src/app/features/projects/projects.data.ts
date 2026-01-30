@@ -146,7 +146,7 @@ export const PROJECTS: Project[] = [
       'Backend architecture',
       'Data handling'
     ],
-    gitRepoUrl: 'https://github.com/Samuel112003/TP-Rhum'
+    gitRepoUrl: 'https://github.com/Samuel112003/Rum_recipe_API'
   },
   {
     id: 'angular-app',
@@ -159,6 +159,6 @@ export const PROJECTS: Project[] = [
       'Modern Angular practices',
       'Frontend fundamentals'
     ],
-    gitRepoUrl: 'https://github.com/Samuel112003/2025-ensim-tp-spr'
+    gitRepoUrl: 'https://github.com/Samuel112003/Mini_unicorn_platform'
   }
 ];
