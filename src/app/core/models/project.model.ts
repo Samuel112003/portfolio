@@ -1,6 +1,7 @@
 export interface Project {
   id: any|string;
   title: string;
+  semester: number;
   context: 'professional' | 'academic' | 'personal';
   description: string;
   technologies: string[];
